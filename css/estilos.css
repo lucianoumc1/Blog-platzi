@@ -5,7 +5,6 @@ body{
     background-color: rgb(48, 48, 48);
     margin: 0;
     padding: 0;
-    size: 20px;
     font-size: 25px;
 }
 
@@ -16,4 +15,13 @@ body{
     border: 1px solid #ddd;
     margin: 0 auto;
     background-color: #ddd;
+}
+
+#header {
+    background-color: rgb(3, 3, 68);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: 8% ;
+    margin-right: 8%;
 }
